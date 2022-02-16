@@ -57,3 +57,8 @@ resnet34  分数88+
 efficientb1  分数92+
 ![20epoch](data/effb1-train.png) 
 
+## 关于上分点
+```bash
+    1.使用更好的模型如repvgg、efficientb2-b7等
+    2.使用数据增强mixup和cutmix等策略
+```
