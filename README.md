@@ -17,7 +17,7 @@ https://www.dcic-china.com/competitions/10023
 ```
 ## 数据处理
 ```bash
-    需要将训练数据解压到data/trian
+    需要将训练数据解压到data/train
     需要将测试数据解压到data/test
 ```
 ## 代码介绍
